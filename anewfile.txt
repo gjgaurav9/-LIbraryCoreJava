@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B218-9DB3
+
+ Directory of C:\Users\Developer\workspace-CoreJavaLibrary2\Library
+
+03/30/2018  05:15 PM    <DIR>          .
+03/30/2018  05:15 PM    <DIR>          ..
+02/09/2018  02:22 PM               301 .classpath
+02/09/2018  02:22 PM               383 .project
+02/09/2018  02:22 PM    <DIR>          .settings
+03/30/2018  05:15 PM                 0 anewfile.txt
+02/14/2018  06:22 PM    <DIR>          bin
+03/30/2018  04:26 PM    <DIR>          file
+03/30/2018  04:46 PM               659 file.txt
+02/09/2018  02:22 PM    <DIR>          src
+               4 File(s)          1,343 bytes
+               6 Dir(s)  18,029,912,064 bytes free
